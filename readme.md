@@ -1,0 +1,3 @@
+In is Weather_App..
+you can check the weather like(temp,min_temp,max_temp,weather_type etc)of any city..
+all you need to do is just type the city name,and all the information will we fetch from api's...
